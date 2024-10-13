@@ -11,7 +11,16 @@ https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/24.1/orddg/
 
 Además, dado que dispondrán de un servicio cloud completo, podrán desplegar una máquina virtual con acceso a ella via SSH.
 
-**Trabajar con VMs en Oracle Cloud**
+### Trabajar con VMs en Oracle Cloud
 
-¡OJO! Esta segunda parte no significa que en el hackaton haya que hacer uso de esta información para la solución del reto, pero sí de que es una alternativa más.
+**¡OJO! Esta segunda parte no significa que en el hackaton haya que hacer uso de esta información para la solución del reto, pero sí de que es una alternativa más.**
+
 Dejamos información de como desplegar una máquina virtual con un servidor apache y de las 3 formas diferentes de generar la clave ssh de acceso al servidor. 
+
+![image](https://github.com/user-attachments/assets/710e5830-efcd-4ab8-8e7a-9cefa86dcb89)
+
+https://www.youtube.com/watch?v=IyQ9iyn6QOY
+
+![image](https://github.com/user-attachments/assets/ee217aa1-7854-41d0-9201-6b16512ddf4e)
+
+https://www.youtube.com/watch?v=v5fGdgIrdd0
