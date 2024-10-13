@@ -6,4 +6,5 @@ Información importante:
 
 Oracle® REST Data Services
 https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/24.1/orddg/oracle-rest-data-services-developers-guide.pdf
+
 ![image](https://github.com/user-attachments/assets/cfc1b268-7f3c-4c3e-b7b9-5238027d25d6)
